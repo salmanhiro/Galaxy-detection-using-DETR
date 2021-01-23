@@ -14,4 +14,6 @@ What is astro DETR?
 
 AstroDETR is simply DETR but for astronomical object detection. I give a try on elliptical and spiral galaxies, bright stars, and nebulas from SDSS dataset, which I believed as COCO for astronomical purposes. 
 
+Current result with around 20 images and trained at 300 epochs
 
+![img](whatever.png)
